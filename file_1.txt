@@ -1,2 +1,0 @@
-Hello, i'm starting to use git
-second_line
